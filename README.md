@@ -1,5 +1,5 @@
 # ADHD
-# Quran Focus App for Neurodivergent Learners
+# Focus App for Neurodivergent Learners
 
 A specialised tool designed to support ADHD/neurodivergent users in Quran study through customisable focus sessions and gentle progress tracking.
 
